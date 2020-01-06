@@ -1,7 +1,7 @@
 <h1>The Lab - indexed database for Blockchain resources</h1>
 Scientific and high quality sources on Distributed Ledger Technologies. Contribute Sources on GitHub.
 
-Visit our website on [ledgerlabs.li](https://ledgerlabs.li) on Ledger Innovation in Liechtenstein.
+Visit our website on ledgerlabs.li
 
 <h3>About</h3>
 The lab is a indexed database for scientific and high quality sources on distributed ledger technologies. It is intended as an easily searchable and filterable resource for researchers, entrepreneurs, analysts, investors, and other people interested in blockchain technology.
